@@ -4,6 +4,10 @@ A browser strategy game for 2–8 human players. Play on the same device or host
 
 **[Play the game](https://chain-reaction-cube.m4n1g.chatgpt.site/)**
 
+## Gameplay demo
+
+[Watch the 5-second recording of actual gameplay](docs/chain-reaction-demo.mp4) — a corner explosion, capture, and victory.
+
 ## Features
 
 - 6 × 6 and 8 × 8 boards
